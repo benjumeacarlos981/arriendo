@@ -7,7 +7,7 @@ git remote add origin git@github.com:benjumeacarlos981/arriendo.git
 git status
 git add .
 git commit -m "deployando Codigo"
-git push origin main
+git push -f origin main
 npm run deploy
 
 

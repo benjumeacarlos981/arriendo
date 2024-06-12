@@ -20,7 +20,6 @@ function App() {
     return <div>Loading...</div>;
   }
 
-
   return (
     <>
       <div className="container">
