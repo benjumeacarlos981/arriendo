@@ -1,0 +1,49 @@
+{
+  "titulo": "Arriendo Apartamento Barrio Gran Granada",
+  "descripcion": "Se arrienda hermoso apartamento",
+  "caracteristicas": [
+    "Area 62Mts",
+    "3 habitaciones",
+    "2 baños",
+    "Estudio",
+    "Walking closet",
+    "Puerta de seguridad",
+    "Alarma",
+    "Caja de seguridad"
+  ],
+  "img": {
+    "linkImg": "/src/assets/images/"
+    },
+  "carousel": {
+    "tituloPrincipalH1": "Soluciones Integrales Multicarga",
+    "tituloPrincipalP": "Multicarga es una empresa trasportadora dedicada a transporte de toda clase de mercancía a nivel nacional y local garantizando seguridad, agilidad y experiencia.",
+
+    "diapositivas": [
+      {
+        "id": 1,
+        "imagen": "img-carousel1.jpg",
+        "alt": "Camion en carretera",
+        "descripcion": "prueba"
+      },
+      {
+        "id": 2,
+        "imagen": "img-carousel2.jpg",
+        "alt": "Instalaciones de la empresa",
+        "descripcion": "Equipo trabajando por ustedes"
+      },
+      {
+        "id": 3,
+        "imagen": "img-carousel3.jpg",
+        "alt": "Puente transmilenio calle 6 con 30",
+        "descripcion": "Transportamos su carga en todos los sentidos"
+      }
+    ]
+
+    },
+  "videos": [
+    "/src/assets/videos/video1.mp4",
+    "/src/assets/videos/video2.mp4",
+    "/src/assets/videos/video3.mp4",
+    "/src/assets/videos/video4.mp4"
+  ]
+}
