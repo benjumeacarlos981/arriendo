@@ -27,13 +27,13 @@
       },
       {
         "id": 2,
-        "imagen": "img-carousel2.jpg",
+        "imagen": "/arriendo/images/img-carousel2.jpg",
         "alt": "Instalaciones de la empresa",
         "descripcion": "Equipo trabajando por ustedes"
       },
       {
         "id": 3,
-        "imagen": "img-carousel3.jpg",
+        "imagen": "/arriendo/images/img-carousel3.jpg",
         "alt": "Puente transmilenio calle 6 con 30",
         "descripcion": "Transportamos su carga en todos los sentidos"
       }
