@@ -18,9 +18,11 @@ function ComponentCarousel({ data }) {
     <div className="ComponentCarousel">
     <Carousel fade activeIndex={index} onSelect={handleSelect}>
       {Configuracion.diapositivas.map(detalle => {
+        console.log("imagenes", detalle)
         return (
           <Carousel.Item key={detalle.id}>
-            <img className="d-block w-100" src={(`${data.img.linkImg}${detalle.imagen}`)} alt={detalle.alt}/>
+            <img className="d-block w-100" src={detalle.imagen} alt={detalle.alt}/>
+            {/* <img className="d-block w-100" src={(`${data.img.linkImg}${detalle.imagen}`)} alt={detalle.alt}/> */}
 
             <Carousel.Caption>
               <h3>{detalle.descripcion}</h3>

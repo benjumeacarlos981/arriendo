@@ -21,7 +21,7 @@
     "diapositivas": [
       {
         "id": 1,
-        "imagen": "img-carousel1.jpg",
+        "imagen": "/arriendo/images/img-carousel1.jpg",
         "alt": "Camion en carretera",
         "descripcion": "prueba"
       },
