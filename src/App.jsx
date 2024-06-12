@@ -11,7 +11,7 @@ function App() {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    fetch('/src/data/datos.json')
+    fetch('../public/datos.json')
       .then(response => response.json())
       .then(data => setData(data));
   }, []);
@@ -19,7 +19,7 @@ function App() {
   if (!data) {
     return <div>Loading...</div>;
   }
-  
+
 
   return (
     <>
