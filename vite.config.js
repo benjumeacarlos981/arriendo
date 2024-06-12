@@ -1,7 +1,15 @@
+//*********************Funcionando******************* */
 import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import react from '@vitejs/plugin-react';
 
-// https://vitejs.dev/config/
+
 export default defineConfig({
   plugins: [react()],
-})
+  // base: 'https://benjumeacarlos981.github.com/arriendo',
+  server: {
+    port: 3000
+  },
+  envFile: '.env.production', // Cargar el archivo .env.production para el entorno de producción
+  });
+
+//******************************************************* */
