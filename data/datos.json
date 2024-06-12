@@ -40,10 +40,11 @@
     ]
 
     },
-  "videos": [
-    "/src/assets/videos/video1.mp4",
-    "/src/assets/videos/video2.mp4",
-    "/src/assets/videos/video3.mp4",
-    "/src/assets/videos/video4.mp4"
-  ]
+    "videos": [
+      "https://player.vimeo.com/video/957389977?h=85389d4018&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "https://player.vimeo.com/video/916950467?h=7adbd731d2&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+
+    ]
+
 }
+
