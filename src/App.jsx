@@ -19,6 +19,7 @@ function App() {
   if (!data) {
     return <div>Loading...</div>;
   }
+  
 
   return (
     <>
