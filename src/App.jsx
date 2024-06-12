@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Carousel from './components/carousel/ComponentCarousel';
 import Descripcion from './components/descripcion/Descripcion';
-// import Videos from './components/videos/Videos';
+import Videos from './components/videos/Videos';
 import Header from './components/header/Header';
 import './styles/styles.css';
 
@@ -27,7 +27,7 @@ function App() {
         <Header data={data} />
         <Carousel data={data} />
         <Descripcion data={data} />
-        {/* <Videos data={data} /> */}
+        <Videos data={data} />
       </div>
     </>
   )
