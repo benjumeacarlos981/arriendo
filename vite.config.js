@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: 'https://benjumeacarlos981.github.com/arriendo',
+  base: 'https://benjumeacarlos981.github.io/arriendo',
   server: {
     port: 3000
   },
