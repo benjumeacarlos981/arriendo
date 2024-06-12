@@ -11,7 +11,7 @@ function App() {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    fetch('/public/data/datos.json')
+    fetch('/arriendo/data/datos.json')
       .then(response => response.json())
       .then(data => setData(data));
   }, []);
