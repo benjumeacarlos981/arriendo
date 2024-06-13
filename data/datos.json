@@ -21,35 +21,56 @@
     "diapositivas": [
       {
         "id": 1,
-        "imagen": "/arriendo/images/1920x720.jpg",
+        "imagen": "/arriendo/images/1.jpg",
         "alt": "Sala Comedor",
         "descripcion": "Sala Comedor y Balcon",
         "parrafo": "Hermoso espacion para comedor y sala con acceso al balcon"
       },
       {
         "id": 2,
-        "imagen": "/arriendo/images/1920x720.jpg",
+        "imagen": "/arriendo/images/2.jpg",
         "alt": "Cocina",
         "descripcion": "Cocina",
         "parrafo": "Cocina tipo americana "
       },
       {
         "id": 3,
-        "imagen": "/arriendo/images/1920x720.jpg",
+        "imagen": "/arriendo/images/4.jpg",
         "alt": "Cocina y zona de ropas",
         "descripcion": "Cocina y zona de ropas",
         "parrafo": "Zona de ropas bastante iluminada y con 2 ventanas para mayor ventilacion"
       },
       {
         "id": 4,
-        "imagen": "/arriendo/images/1920x720.jpg",
+        "imagen": "/arriendo/images/6.jpg",
         "alt": "Pacillo habitaciones ",
         "descripcion": "Pacillo habitaciones ",
         "parrafo": "Pacillo de acceso a estudio, baños y habitaciones"
       },
       {
         "id": 5,
-        "imagen": "/arriendo/images/1920x720.jpg",
+        "imagen": "/arriendo/images/7.jpg",
+        "alt": "Estudio ",
+        "descripcion": "Estudio",
+        "parrafo": "Zona de estudio "
+      },
+      {
+        "id": 6,
+        "imagen": "/arriendo/images/8.jpg",
+        "alt": "Estudio ",
+        "descripcion": "Estudio",
+        "parrafo": "Zona de estudio "
+      },
+      {
+        "id": 7,
+        "imagen": "/arriendo/images/9.jpg",
+        "alt": "Estudio ",
+        "descripcion": "Estudio",
+        "parrafo": "Zona de estudio "
+      },
+      {
+        "id": 8,
+        "imagen": "/arriendo/images/10.jpg",
         "alt": "Estudio ",
         "descripcion": "Estudio",
         "parrafo": "Zona de estudio "
