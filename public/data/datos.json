@@ -1,168 +1,171 @@
 {
   "titulo": "Arriendo Apartamento Barrio Gran Granada",
-  "descripcion": "Se arrienda hermoso apartamento",
+  "descripcion": "Conjunto residencial Balcones de granada III, estrato 4 con 2 torres de 12 pisos, administración incluida y parqueadero.",
   "caracteristicas": [
-    "Area 62Mts",
+    "Área 68Mts",
+    "Torre 2 Piso 8",
     "3 habitaciones",
     "2 baños",
+    "Balcon",
     "Estudio",
     "Walking closet",
     "Puerta de seguridad",
     "Alarma",
-    "Caja de seguridad"
+    "Caja de seguridad",
+    "Cortinas",
+    "Parqueadero Privado",
+    "Parqueadero de Visitantes",
+    "Administracion incluida",
+    "Calentador a gas",
+    "Ascensor"
+
   ],
   "img": {
     "linkImg1": "/arriendo/images/"
-    },
+  },
   "carousel": {
     "tituloPrincipalH1": "Soluciones Integrales Multicarga",
-    "tituloPrincipalP": "Multicarga es una empresa trasportadora dedicada a transporte de toda clase de mercancía a nivel nacional y local garantizando seguridad, agilidad y experiencia.",
-
+    "tituloPrincipalP": "Multicarga es una empresa transportadora dedicada al transporte de toda clase de mercancía a nivel nacional y local, garantizando seguridad, agilidad y experiencia.",
     "diapositivas": [
       {
         "id": 1,
         "imagen": "/arriendo/images/1.jpg",
         "alt": "Sala Comedor",
-        "descripcion": "Sala Comedor y Balcon",
-        "parrafo": "Hermoso espacion para comedor y sala con acceso al balcon"
+        "descripcion": "Sala comedor y balcón",
+        "parrafo": "Hermoso espacio para comedor y sala con acceso al balcón."
       },
       {
         "id": 2,
         "imagen": "/arriendo/images/2.jpg",
         "alt": "Cocina",
         "descripcion": "Cocina",
-        "parrafo": "Cocina tipo americana "
+        "parrafo": "Cocina tipo americana."
       },
       {
         "id": 3,
         "imagen": "/arriendo/images/4.jpg",
         "alt": "Cocina y zona de ropas",
         "descripcion": "Cocina y zona de ropas",
-        "parrafo": "Zona de ropas bastante iluminada y con 2 ventanas para mayor ventilacion"
+        "parrafo": "Zona de ropas bien iluminada y con 2 ventanas para mayor ventilación."
       },
       {
         "id": 4,
         "imagen": "/arriendo/images/6.jpg",
-        "alt": "Pacillo habitaciones ",
-        "descripcion": "Pacillo habitaciones ",
-        "parrafo": "Pacillo de acceso a estudio, baños y habitaciones"
+        "alt": "Pasillo habitaciones",
+        "descripcion": "Pasillo habitaciones",
+        "parrafo": "Pasillo de acceso a estudio, baños y habitaciones."
       },
       {
         "id": 5,
         "imagen": "/arriendo/images/7.jpg",
-        "alt": "Estudio ",
+        "alt": "Estudio",
         "descripcion": "Estudio",
-        "parrafo": "Zona de estudio "
+        "parrafo": "Zona de estudio."
       },
       {
         "id": 6,
         "imagen": "/arriendo/images/8.jpg",
-        "alt": "Estudio ",
-        "descripcion": "8",
-        "parrafo": "8"
+        "alt": "Baño auxiliar",
+        "descripcion": "Baño auxiliar",
+        "parrafo": "Baño auxiliar."
       },
       {
         "id": 7,
         "imagen": "/arriendo/images/9.jpg",
-        "alt": "Estudio ",
-        "descripcion": "9",
-        "parrafo": "9"
+        "alt": "Habitación principal esquinera",
+        "descripcion": "Habitación principal",
+        "parrafo": "Habitación principal esquinera con baño y walking closet."
       },
       {
         "id": 8,
         "imagen": "/arriendo/images/10.jpg",
-        "alt": "Estudio ",
-        "descripcion": "10",
-        "parrafo": "10"
+        "alt": "Walking closet",
+        "descripcion": "Walking closet",
+        "parrafo": "Walking closet con ventana de ventilación."
       },
       {
         "id": 9,
         "imagen": "/arriendo/images/11.jpg",
-        "alt": "Estudio ",
-        "descripcion": "11",
-        "parrafo": "11"
+        "alt": "Baño habitación principal",
+        "descripcion": "Baño",
+        "parrafo": "Baño habitación principal."
       },
       {
         "id": 10,
-        "imagen": "/arriendo/images/13.jpg",
-        "alt": "Estudio ",
-        "descripcion": "13",
-        "parrafo": "13"
+        "imagen": "/arriendo/images/14.jpg",
+        "alt": "Habitación auxiliar No 1",
+        "descripcion": "Habitación 1",
+        "parrafo": "Habitación auxiliar No 1."
       },
       {
         "id": 11,
-        "imagen": "/arriendo/images/14.jpg",
-        "alt": "Estudio ",
-        "descripcion": "14",
-        "parrafo": "14"
+        "imagen": "/arriendo/images/13.jpg",
+        "alt": "Habitación auxiliar No 2",
+        "descripcion": "Habitación 2",
+        "parrafo": "Habitación auxiliar No 2."
       },
       {
         "id": 12,
         "imagen": "/arriendo/images/15.jpg",
-        "alt": "Estudio ",
-        "descripcion": "15",
-        "parrafo": "15"
+        "alt": "Vista habitación auxiliar No 1",
+        "descripcion": "Habitación auxiliar",
+        "parrafo": "Vista habitación auxiliar No 1."
       },
       {
         "id": 13,
         "imagen": "/arriendo/images/16.jpg",
-        "alt": "Estudio ",
-        "descripcion": "16",
-        "parrafo": "16"
+        "alt": "Citófono, alarma, calentador",
+        "descripcion": "Citófono, alarma, calentador",
+        "parrafo": "Citófono, alarma, calentador."
       },
       {
         "id": 14,
         "imagen": "/arriendo/images/25.jpg",
-        "alt": "Estudio ",
-        "descripcion": "25",
-        "parrafo": "25"
+        "alt": "Puerta de seguridad",
+        "descripcion": "Puerta principal",
+        "parrafo": "Puerta de seguridad."
       },
       {
         "id": 15,
         "imagen": "/arriendo/images/28.jpg",
-        "alt": "Estudio ",
-        "descripcion": "28",
-        "parrafo": "28"
+        "alt": "Entrada conjunto",
+        "descripcion": "Entrada conjunto",
+        "parrafo": "Entrada conjunto y torres."
       },
       {
         "id": 16,
         "imagen": "/arriendo/images/30.jpg",
-        "alt": "Estudio ",
-        "descripcion": "30",
-        "parrafo": "30"
+        "alt": "Parqueadero",
+        "descripcion": "Parqueadero",
+        "parrafo": "Parqueadero vehicular."
       },
       {
         "id": 17,
         "imagen": "/arriendo/images/38.jpg",
-        "alt": "Estudio ",
-        "descripcion": "38",
-        "parrafo": "38"
+        "alt": "Parqueadero apartamento",
+        "descripcion": "Parqueadero apartamento",
+        "parrafo": "Parqueadero descubierto frente al ingreso a las torres."
       },
       {
         "id": 18,
         "imagen": "/arriendo/images/43.jpg",
-        "alt": "Estudio ",
-        "descripcion": "43",
-        "parrafo": "43"
+        "alt": "Parqueadero visitantes",
+        "descripcion": "Parqueadero visitantes",
+        "parrafo": "Disponibilidad de parqueadero para visitantes."
       },
       {
         "id": 19,
         "imagen": "/arriendo/images/47.jpg",
-        "alt": "Estudio ",
-        "descripcion": "47",
-        "parrafo": "47"
+        "alt": "Portería entrada conjunto",
+        "descripcion": "Portería entrada conjunto",
+        "parrafo": "Portería entrada conjunto."
       }
-
     ]
-
-    },
-    "videos": [
-      "https://player.vimeo.com/video/957389977?h=85389d4018&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "https://player.vimeo.com/video/957428965?h=1c1d3f2e19&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "https://player.vimeo.com/video/957431437?h=2748a9787a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "https://player.vimeo.com/video/957433028?h=fdcbdf2060&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-
-    ]
-
+  },
+  "videos": [
+    "https://player.vimeo.com/video/957389977?h=85389d4018&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+    "https://player.vimeo.com/video/957428965?h=1c1d3f2e19&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+    "https://player.vimeo.com/video/957431437?h=2748a9787a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+    "https://player.vimeo.com/video/957433028?h=fdcbdf2060&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+  ]
 }
-
