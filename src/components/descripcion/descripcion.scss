@@ -13,13 +13,14 @@
   h2 {
     margin-bottom: 13px;
     color:#837f7f;
+    text-align: justify;
   }
   .list-container {
     display: flex;
     flex-wrap: wrap;
     ul {
       flex: 1;
-      list-style-type: none;
+      /* list-style-type: none; */
       padding: 0;
       margin: 0;
       display: flex;
@@ -28,7 +29,8 @@
       li {
         width: 50%; /* Esto asegura que cada <li> ocupe el 50% del ancho del contenedor padre */
         box-sizing: border-box;
-        list-style-type: disclosure-closed;
+        padding: 0 2% 0 0;
+        /* list-style-type: disclosure-closed; */
       }
     }
   }
