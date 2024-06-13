@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import Carousel from 'react-bootstrap/Carousel';
+import "./componentCarousel.scss";
 
 function ComponentCarousel({ data }) {
   const { carousel } = data; // Desestructurar data para obtener imagenes
@@ -18,7 +19,7 @@ function ComponentCarousel({ data }) {
       {Configuracion.diapositivas.map(detalle => {
 
         return (
-        <Carousel.Item key={detalle.id}>
+        <Carousel.Item className="carouselItem" key={detalle.id}>
           <img className="d-block w-100" src={detalle.imagen} alt={detalle.alt}/>
           <Carousel.Caption>
             {/* <h3>First slide label</h3> */}
