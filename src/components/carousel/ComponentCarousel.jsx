@@ -21,8 +21,9 @@ function ComponentCarousel({ data }) {
         <Carousel.Item key={detalle.id}>
           <img className="d-block w-100" src={detalle.imagen} alt={detalle.alt}/>
           <Carousel.Caption>
-            <h3>First slide label</h3>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            {/* <h3>First slide label</h3> */}
+            <h3>{detalle.descripcion}</h3>
+            <p>{detalle.parrafo}</p>
           </Carousel.Caption>
         </Carousel.Item>
         )
