@@ -6,7 +6,8 @@ function Header({ data }) {
   return (
     <div>
       <header>
-        <h1>{data.titulo}</h1>
+        <h1>{data.titulo1}</h1>
+        <h2>{data.titulo2}</h2>
       </header>
     </div>
 
