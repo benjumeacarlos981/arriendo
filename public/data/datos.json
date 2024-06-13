@@ -58,23 +58,101 @@
         "id": 6,
         "imagen": "/arriendo/images/8.jpg",
         "alt": "Estudio ",
-        "descripcion": "Estudio",
-        "parrafo": "Zona de estudio "
+        "descripcion": "8",
+        "parrafo": "8"
       },
       {
         "id": 7,
         "imagen": "/arriendo/images/9.jpg",
         "alt": "Estudio ",
-        "descripcion": "Estudio",
-        "parrafo": "Zona de estudio "
+        "descripcion": "9",
+        "parrafo": "9"
       },
       {
         "id": 8,
         "imagen": "/arriendo/images/10.jpg",
         "alt": "Estudio ",
-        "descripcion": "Estudio",
-        "parrafo": "Zona de estudio "
+        "descripcion": "10",
+        "parrafo": "10"
+      },
+      {
+        "id": 9,
+        "imagen": "/arriendo/images/11.jpg",
+        "alt": "Estudio ",
+        "descripcion": "11",
+        "parrafo": "11"
+      },
+      {
+        "id": 10,
+        "imagen": "/arriendo/images/13.jpg",
+        "alt": "Estudio ",
+        "descripcion": "13",
+        "parrafo": "13"
+      },
+      {
+        "id": 11,
+        "imagen": "/arriendo/images/14.jpg",
+        "alt": "Estudio ",
+        "descripcion": "14",
+        "parrafo": "14"
+      },
+      {
+        "id": 12,
+        "imagen": "/arriendo/images/15.jpg",
+        "alt": "Estudio ",
+        "descripcion": "15",
+        "parrafo": "15"
+      },
+      {
+        "id": 13,
+        "imagen": "/arriendo/images/16.jpg",
+        "alt": "Estudio ",
+        "descripcion": "16",
+        "parrafo": "16"
+      },
+      {
+        "id": 14,
+        "imagen": "/arriendo/images/25.jpg",
+        "alt": "Estudio ",
+        "descripcion": "25",
+        "parrafo": "25"
+      },
+      {
+        "id": 15,
+        "imagen": "/arriendo/images/28.jpg",
+        "alt": "Estudio ",
+        "descripcion": "28",
+        "parrafo": "28"
+      },
+      {
+        "id": 16,
+        "imagen": "/arriendo/images/30.jpg",
+        "alt": "Estudio ",
+        "descripcion": "30",
+        "parrafo": "30"
+      },
+      {
+        "id": 17,
+        "imagen": "/arriendo/images/38.jpg",
+        "alt": "Estudio ",
+        "descripcion": "38",
+        "parrafo": "38"
+      },
+      {
+        "id": 18,
+        "imagen": "/arriendo/images/43.jpg",
+        "alt": "Estudio ",
+        "descripcion": "43",
+        "parrafo": "43"
+      },
+      {
+        "id": 19,
+        "imagen": "/arriendo/images/47.jpg",
+        "alt": "Estudio ",
+        "descripcion": "47",
+        "parrafo": "47"
       }
+
     ]
 
     },
