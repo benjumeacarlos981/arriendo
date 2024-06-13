@@ -3,6 +3,7 @@ import Carousel from './components/carousel/ComponentCarousel';
 import Descripcion from './components/descripcion/Descripcion';
 import Videos from './components/videos/Videos';
 import Header from './components/header/Header';
+import CollageImg from './components/collageImg/CollageImg';
 import './styles/styles.css';
 
 
@@ -28,6 +29,7 @@ function App() {
         <Carousel data={data} />
         <Descripcion data={data} />
         <Videos data={data} />
+        <CollageImg />
       </div>
     </>
   )
