@@ -44,51 +44,51 @@
       },
       {
         "id": 3,
-        "imagen": "/arriendo/images/4.jpeg",
+        "imagen": "/arriendo/images/3.jpeg",
         "alt": "Cocina y zona de ropas",
         "descripcion": "Cocina y zona de ropas",
         "parrafo": "Zona de ropas bien iluminada y con 2 ventanas para mayor ventilación."
       },
       {
         "id": 4,
-        "imagen": "/arriendo/images/6.jpeg",
+        "imagen": "/arriendo/images/4.jpeg",
         "alt": "Pasillo habitaciones",
         "descripcion": "Pasillo habitaciones",
         "parrafo": "Pasillo de acceso a estudio, baños y habitaciones."
       },
       {
         "id": 5,
-        "imagen": "/arriendo/images/7.jpeg",
+        "imagen": "/arriendo/images/5.jpeg",
         "alt": "Estudio",
         "descripcion": "Estudio",
         "parrafo": "Zona de estudio."
       },
       {
         "id": 6,
-        "imagen": "/arriendo/images/8.jpeg",
+        "imagen": "/arriendo/images/6.jpeg",
         "alt": "Baño auxiliar",
         "descripcion": "Baño auxiliar",
         "parrafo": "Baño auxiliar."
       },
       {
         "id": 7,
-        "imagen": "/arriendo/images/9.jpeg",
+        "imagen": "/arriendo/images/7.jpeg",
         "alt": "Habitación principal esquinera",
         "descripcion": "Habitación principal",
         "parrafo": "Habitación principal esquinera con baño y walking closet."
       },
       {
         "id": 8,
-        "imagen": "/arriendo/images/10.jpeg",
+        "imagen": "/arriendo/images/8.jpeg",
         "alt": "Walking closet",
         "descripcion": "Walking closet",
         "parrafo": "Walking closet con ventana de ventilación."
       },
       {
         "id": 9,
-        "imagen": "/arriendo/images/11.jpeg",
+        "imagen": "/arriendo/images/9.jpeg",
         "alt": "Baño habitación principal",
-        "descripcion": "Baño",
+        "descripcion": "Baño Principal",
         "parrafo": "Baño habitación principal."
       },
       {
