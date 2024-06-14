@@ -11,7 +11,7 @@ function CollageImg() {
 
   useEffect(() => {
     const baseURL = 'https://benjumeacarlos981.github.io/arriendo/images/';
-    const imageCount = 49; // Total number of images
+    const imageCount = 35; // Total number of images
     const imageUrls = Array.from({ length: imageCount }, (_, i) => `${baseURL}${i + 1}.jpeg`);
     setImages(imageUrls);
   }, []);
