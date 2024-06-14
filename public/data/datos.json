@@ -37,28 +37,28 @@
       },
       {
         "id": 2,
-        "imagen": "/arriendo/images/2.jpg",
+        "imagen": "/arriendo/images/2.jpeg",
         "alt": "Cocina",
         "descripcion": "Cocina",
         "parrafo": "Cocina tipo americana."
       },
       {
         "id": 3,
-        "imagen": "/arriendo/images/4.jpg",
+        "imagen": "/arriendo/images/4.jpeg",
         "alt": "Cocina y zona de ropas",
         "descripcion": "Cocina y zona de ropas",
         "parrafo": "Zona de ropas bien iluminada y con 2 ventanas para mayor ventilación."
       },
       {
         "id": 4,
-        "imagen": "/arriendo/images/6.jpg",
+        "imagen": "/arriendo/images/6.jpeg",
         "alt": "Pasillo habitaciones",
         "descripcion": "Pasillo habitaciones",
         "parrafo": "Pasillo de acceso a estudio, baños y habitaciones."
       },
       {
         "id": 5,
-        "imagen": "/arriendo/images/7.jpg",
+        "imagen": "/arriendo/images/7.jpeg",
         "alt": "Estudio",
         "descripcion": "Estudio",
         "parrafo": "Zona de estudio."
