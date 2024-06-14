@@ -15,24 +15,26 @@ function ComponentCarousel({ data }) {
   };
 
   return (
-    <Carousel activeIndex={index} onSelect={handleSelect}>
-      {Configuracion.diapositivas.map(detalle => {
+    <div className="ComponentCarousel">
+      <Carousel activeIndex={index} onSelect={handleSelect}>
+        {Configuracion.diapositivas.map(detalle => {
 
-        return (
-        <Carousel.Item className="carouselItem" key={detalle.id}>
-          <img className="d-block w-100" src={detalle.imagen} alt={detalle.alt}/>
-          <Carousel.Caption>
-            {/* <h3>First slide label</h3> */}
-            <h3>{detalle.descripcion}</h3>
-            <p>{detalle.parrafo}</p>
-          </Carousel.Caption>
-        </Carousel.Item>
-        )
+          return (
+          <Carousel.Item className="carouselItem" key={detalle.id}>
+            <img className="d-block w-100" src={detalle.imagen} alt={detalle.alt}/>
+            <Carousel.Caption>
+              {/* <h3>First slide label</h3> */}
+              <h3>{detalle.descripcion}</h3>
+              <p>{detalle.parrafo}</p>
+            </Carousel.Caption>
+          </Carousel.Item>
+          )
 
 
-      })}
+        })}
 
-    </Carousel>
+      </Carousel>
+    </div>
   );
 }
 

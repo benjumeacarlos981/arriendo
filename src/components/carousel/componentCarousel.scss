@@ -1,17 +1,19 @@
-.carouselItem {
 
-  h3 {
+.ComponentCarousel {
 
-
-  }
-
-  p {
-
-  }
-
+  img {
+    max-height: 80vh;
+    object-fit: cover;
+    /* filter: grayscale(70%); */
+    display: block; /* Añadir esta propiedad para evitar espacios en blanco */
+    margin: 0 auto; /* Esto centra horizontalmente la imagen */
+    position: relative; /* Añadir posición relativa para alinear verticalmente */
+    top: 50%; /* Mover la imagen hacia abajo un 50% de su contenedor */
+    transform: translateY(0%); /* Corregir la alineación vertical */
 }
 
 
+}
 
 @media (max-width: 768px) {
   .carouselItem {
