@@ -121,42 +121,42 @@
       },
       {
         "id": 14,
-        "imagen": "/arriendo/images/25.jpg",
+        "imagen": "/arriendo/images/25.jpeg",
         "alt": "Puerta de seguridad",
         "descripcion": "Puerta principal",
         "parrafo": "Puerta de seguridad."
       },
       {
         "id": 15,
-        "imagen": "/arriendo/images/28.jpg",
+        "imagen": "/arriendo/images/28.jpeg",
         "alt": "Entrada conjunto",
         "descripcion": "Entrada conjunto",
         "parrafo": "Entrada conjunto y torres."
       },
       {
         "id": 16,
-        "imagen": "/arriendo/images/30.jpg",
+        "imagen": "/arriendo/images/30.jpeg",
         "alt": "Parqueadero",
         "descripcion": "Parqueadero",
         "parrafo": "Parqueadero vehicular."
       },
       {
         "id": 17,
-        "imagen": "/arriendo/images/38.jpg",
+        "imagen": "/arriendo/images/38.jpeg",
         "alt": "Parqueadero apartamento",
         "descripcion": "Parqueadero apartamento",
         "parrafo": "Parqueadero descubierto frente al ingreso a las torres."
       },
       {
         "id": 18,
-        "imagen": "/arriendo/images/43.jpg",
+        "imagen": "/arriendo/images/43.jpeg",
         "alt": "Parqueadero visitantes",
         "descripcion": "Parqueadero visitantes",
         "parrafo": "Disponibilidad de parqueadero para visitantes."
       },
       {
         "id": 19,
-        "imagen": "/arriendo/images/47.jpg",
+        "imagen": "/arriendo/images/47.jpeg",
         "alt": "Portería entrada conjunto",
         "descripcion": "Portería entrada conjunto",
         "parrafo": "Portería entrada conjunto."
