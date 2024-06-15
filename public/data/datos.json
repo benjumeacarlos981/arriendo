@@ -118,20 +118,6 @@
         "parrafo": "Habitación auxiliar No 2."
       },
       {
-        "id": 14,
-        "imagen": "/arriendo/images/14.jpeg",
-        "alt": "Alarma, calentador",
-        "descripcion": "Alarma, calentador",
-        "parrafo": "Alarma, calentador."
-      },
-      {
-        "id": 15,
-        "imagen": "/arriendo/images/22.jpeg",
-        "alt": "Puerta de seguridad",
-        "descripcion": "Puerta principal",
-        "parrafo": "Puerta de seguridad."
-      },
-      {
         "id": 16,
         "imagen": "/arriendo/images/33.jpeg",
         "alt": "Entrada conjunto",
