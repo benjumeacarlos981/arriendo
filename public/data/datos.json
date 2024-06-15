@@ -66,9 +66,9 @@
       {
         "id": 6,
         "imagen": "/arriendo/images/6.jpeg",
-        "alt": "Baño auxiliar",
-        "descripcion": "Baño auxiliar",
-        "parrafo": "Baño auxiliar."
+        "alt": "Baño Socialr",
+        "descripcion": "Baño Social",
+        "parrafo": "Baño Social."
       },
       {
         "id": 7,
@@ -122,9 +122,9 @@
       {
         "id": 14,
         "imagen": "/arriendo/images/14.jpeg",
-        "alt": "Citófono, alarma, calentador",
-        "descripcion": "Citófono, alarma, calentador",
-        "parrafo": "Citófono, alarma, calentador."
+        "alt": "Alarma, calentador",
+        "descripcion": "Alarma, calentador",
+        "parrafo": "Alarma, calentador."
       },
       {
         "id": 15,
