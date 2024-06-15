@@ -10,3 +10,39 @@
   height: auto;
 } */
 
+.videos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.x {
+  background-color: rgb(227, 227, 227);
+  border-radius: 1.5%;
+  padding: 20px;
+  margin-top: 5%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+@media (max-width: 768px) {
+
+
+}
+
+@media (max-width: 768px) and (orientation: landscape) {
+
+}
+
+@media (min-width: 769px) {
+
+
+}
+
+
+@media (min-width: 992px) {
+
+
+}

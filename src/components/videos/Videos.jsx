@@ -1,8 +1,7 @@
 import React, { useEffect } from 'react';
 import './videos.scss';
 
-function Videos({data}) {
-
+function Videos({ data }) {
   useEffect(() => {
     // Esto se asegura de que el script de Vimeo se cargue cuando el componente se monte
     const script = document.createElement('script');
@@ -17,10 +16,9 @@ function Videos({data}) {
   }, []);
 
   return (
-    <>
-     <div className="videos">
+    <div className="videos x">
       {data.videos.map((videoSrc, index) => (
-        <div key={index} style={{ padding: '49.76% 0 0 0', position: 'relative', marginBottom: '20px' }}>
+        <div key={index} style={{ padding: '100% 0 0 0', position: 'relative' }}>
           <iframe
             src={videoSrc}
             frameBorder="0"
@@ -31,12 +29,11 @@ function Videos({data}) {
         </div>
       ))}
     </div>
-
-    </>
   );
 }
 
 export default Videos;
+
 
 
 
