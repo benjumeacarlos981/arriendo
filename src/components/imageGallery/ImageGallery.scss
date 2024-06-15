@@ -1,0 +1,73 @@
+.open-gallery-button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.open-gallery-button:hover {
+  background-color: #0056b3;
+}
+
+.gallery-modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  border-radius: 10px;
+  max-width: 90%;
+  max-height: 90%;
+  width: 90%; /* Ajustar el ancho del modal */
+  height: 90%; /* Ajustar la altura del modal */
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden; /* Asegura que el contenido no desborde el modal */
+}
+
+.gallery-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+.close-gallery-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: red;
+}
+
+.gallery-content {
+  width: 100%;
+  height: 100%;
+  overflow-y: auto; /* Permitir desplazamiento vertical */
+  padding-right: 10px; /* Espacio para el scrollbar */
+}
+
+/* Ajustes responsivos */
+@media (max-width: 600px) {
+  .open-gallery-button {
+    width: 100%;
+  }
+}
+
+@media (max-width: 900px) {
+  .gallery-modal {
+    padding: 10px;
+  }
+}

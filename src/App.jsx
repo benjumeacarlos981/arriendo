@@ -6,6 +6,8 @@ import Header from './components/header/Header';
 import CollageImg from './components/collageImg/CollageImg';
 import './styles/styles.css';
 
+// import ImageGallery from './components/ImageGallery/ImageGallery';
+
 
 
 function App() {
@@ -29,6 +31,7 @@ function App() {
         <Carousel data={data} />
         <Descripcion data={data} />
         <Videos data={data} />
+        {/* <ImageGallery /> */}
         <CollageImg />
       </div>
     </>
