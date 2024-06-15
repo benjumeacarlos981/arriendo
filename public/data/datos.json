@@ -93,70 +93,77 @@
       },
       {
         "id": 10,
-        "imagen": "/arriendo/images/14.jpeg",
+        "imagen": "/arriendo/images/10.jpeg",
         "alt": "Habitación auxiliar No 1",
         "descripcion": "Habitación 1",
         "parrafo": "Habitación auxiliar No 1."
       },
       {
         "id": 11,
+        "imagen": "/arriendo/images/11.jpeg",
+        "alt": "Habitación auxiliar No 1",
+        "descripcion": "Habitación 1",
+        "parrafo": "Habitación auxiliar No 1."
+      },
+      {
+        "id": 12,
+        "imagen": "/arriendo/images/12.jpeg",
+        "alt": "Habitación auxiliar No 2",
+        "descripcion": "Habitación 2",
+        "parrafo": "Habitación auxiliar No 2."
+      },
+      {
+        "id": 13,
         "imagen": "/arriendo/images/13.jpeg",
         "alt": "Habitación auxiliar No 2",
         "descripcion": "Habitación 2",
         "parrafo": "Habitación auxiliar No 2."
       },
       {
-        "id": 12,
-        "imagen": "/arriendo/images/15.jpeg",
-        "alt": "Vista habitación auxiliar No 1",
-        "descripcion": "Habitación auxiliar",
-        "parrafo": "Vista habitación auxiliar No 1."
-      },
-      {
-        "id": 13,
-        "imagen": "/arriendo/images/16.jpeg",
+        "id": 14,
+        "imagen": "/arriendo/images/14.jpeg",
         "alt": "Citófono, alarma, calentador",
         "descripcion": "Citófono, alarma, calentador",
         "parrafo": "Citófono, alarma, calentador."
       },
       {
-        "id": 14,
-        "imagen": "/arriendo/images/25.jpeg",
+        "id": 15,
+        "imagen": "/arriendo/images/22.jpeg",
         "alt": "Puerta de seguridad",
         "descripcion": "Puerta principal",
         "parrafo": "Puerta de seguridad."
       },
       {
-        "id": 15,
-        "imagen": "/arriendo/images/28.jpeg",
+        "id": 16,
+        "imagen": "/arriendo/images/33.jpeg",
         "alt": "Entrada conjunto",
         "descripcion": "Entrada conjunto",
         "parrafo": "Entrada conjunto y torres."
       },
       {
-        "id": 16,
-        "imagen": "/arriendo/images/30.jpeg",
+        "id": 17,
+        "imagen": "/arriendo/images/25.jpeg",
         "alt": "Parqueadero",
         "descripcion": "Parqueadero",
         "parrafo": "Parqueadero vehicular."
       },
       {
-        "id": 17,
-        "imagen": "/arriendo/images/38.jpeg",
+        "id": 18,
+        "imagen": "/arriendo/images/31.jpeg",
         "alt": "Parqueadero apartamento",
         "descripcion": "Parqueadero apartamento",
         "parrafo": "Parqueadero descubierto frente al ingreso a las torres."
       },
       {
-        "id": 18,
-        "imagen": "/arriendo/images/43.jpeg",
+        "id": 19,
+        "imagen": "/arriendo/images/32.jpeg",
         "alt": "Parqueadero visitantes",
         "descripcion": "Parqueadero visitantes",
         "parrafo": "Disponibilidad de parqueadero para visitantes."
       },
       {
-        "id": 19,
-        "imagen": "/arriendo/images/47.jpeg",
+        "id": 20,
+        "imagen": "/arriendo/images/34.jpeg",
         "alt": "Portería entrada conjunto",
         "descripcion": "Portería entrada conjunto",
         "parrafo": "Portería entrada conjunto."
