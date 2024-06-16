@@ -13,6 +13,7 @@ function Header({ data }) {
         <div className="right">
           <h1>$ 1.700.000</h1>
           <h4>Cel 3182438948</h4>
+          <h6>Direcciòn Carrera 119 No 77 21</h6>
         </div>
       </header>
     </div>
