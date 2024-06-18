@@ -18,7 +18,7 @@ function Videos({ data }) {
   return (
     <div className="videos x">
       {data.videos.map((videoSrc, index) => (
-        <div key={index} style={{ padding: '100% 0 0 0', position: 'relative' }}>
+        <div className="video-individual" key={index} style={{ padding: '100% 0 0 0', position: 'relative' }}>
           <iframe
             src={videoSrc}
             frameBorder="0"
