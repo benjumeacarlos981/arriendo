@@ -3,7 +3,7 @@ import Carousel from './components/carousel/ComponentCarousel';
 import Descripcion from './components/descripcion/Descripcion';
 import Videos from './components/videos/Videos';
 import Header from './components/header/Header';
-// import CollageImg from './components/collageImg/CollageImg';
+import CollageImg from './components/collageImg/CollageImg';
 import './styles/styles.css';
 
 import ImageCarouselModal from '/src/components/ImageCarouselModal/ImageCarouselModal';
@@ -41,9 +41,9 @@ function App() {
         <Carousel data={data} />
         <Descripcion data={data} />
         <Videos data={data} />
-        {/* <CollageImg /> */}
+        <CollageImg />
         <div>
-          <button onClick={openModal}>Abrir Carrusel</button>
+          <button onClick={openModal} className="AppModalImg">Mostrar imagenes</button>
           <ImageCarouselModal isOpen={isModalOpen} onRequestClose={closeModal} />
         </div>
       </div>
