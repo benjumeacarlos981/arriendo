@@ -1,0 +1,13 @@
+.carousel .slide img {
+  max-height: 500px;
+  object-fit: cover;
+}
+
+.carousel .control-dots {
+  display: none;
+}
+
+.carousel .control-prev.control-arrow,
+.carousel .control-next.control-arrow {
+  background: rgba(0, 0, 0, 0.5);
+}

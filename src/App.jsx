@@ -3,12 +3,13 @@ import Carousel from './components/carousel/ComponentCarousel';
 import Descripcion from './components/descripcion/Descripcion';
 import Videos from './components/videos/Videos';
 import Header from './components/header/Header';
-import CollageImg from './components/collageImg/CollageImg';
+// import CollageImg from './components/collageImg/CollageImg';
 import './styles/styles.css';
 
-// import ImageGallery from './components/ImageGallery/ImageGallery';
+import ImageCarouselModal from '/src/components/ImageCarouselModal/ImageCarouselModal';
+import Modal from 'react-modal';
 
-
+Modal.setAppElement('#root'); // Para la accesibilidad del modal
 
 function App() {
   const [data, setData] = useState(null);
@@ -19,10 +20,19 @@ function App() {
       .then(data => setData(data));
   }, []);
 
+  const [isModalOpen, setIsModalOpen] = useState(false);
+
+  const openModal = () => {
+    setIsModalOpen(true);
+  };
+
+  const closeModal = () => {
+    setIsModalOpen(false);
+  };
+
   if (!data) {
     return <div>Loading...</div>;
   }
-
 
   return (
     <>
@@ -31,11 +41,14 @@ function App() {
         <Carousel data={data} />
         <Descripcion data={data} />
         <Videos data={data} />
-        {/* <ImageGallery /> */}
-        <CollageImg />
+        {/* <CollageImg /> */}
+        <div>
+          <button onClick={openModal}>Abrir Carrusel</button>
+          <ImageCarouselModal isOpen={isModalOpen} onRequestClose={closeModal} />
+        </div>
       </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
