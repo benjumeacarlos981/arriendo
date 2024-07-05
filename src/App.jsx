@@ -3,6 +3,7 @@ import Carousel from './components/carousel/ComponentCarousel';
 import Descripcion from './components/descripcion/Descripcion';
 import Videos from './components/videos/Videos';
 import Header from './components/header/Header';
+import Aviso from './components/aviso/Aviso';
 import CollageImg from './components/collageImg/CollageImg';
 import './styles/styles.css';
 
@@ -36,6 +37,7 @@ function App() {
 
   return (
     <>
+     <Aviso />
       <div className="container">
         <Header data={data} />
         <Carousel data={data} />

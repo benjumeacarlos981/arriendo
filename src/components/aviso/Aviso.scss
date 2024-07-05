@@ -1,0 +1,21 @@
+.aviso-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(128, 128, 128, 0.8); /* Gris transparente */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000; /* Asegurarse de que esté por encima de otros elementos */
+}
+
+.aviso-content {
+  background-color: rgba(0, 0, 0, 0.7); /* Fondo negro semitransparente */
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 24px; /* Tamaño de fuente */
+}
