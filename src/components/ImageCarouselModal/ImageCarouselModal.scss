@@ -1,3 +1,42 @@
+ul, li {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.ImageCarouselModal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  right: auto;
+  bottom: auto;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  max-width: 800px;
+ 
+}
+
+/* ImageCarouselModal.scss */
+.carousel-thumbnail {
+  width: 50px;
+  height: 50px;
+  margin: 0 5px;
+  cursor: pointer;
+  border: 2px solid transparent;
+
+  &.selected {
+    border-color: #00c298;
+  }
+}
+
+.carousel .thumbs-wrapper {
+  margin: 0px !important;
+}
+
+.carousel.carousel-slider {
+  background-color: #a8a3a1;
+}
+
+/* ******************************************* */
 .carousel .slide img {
   max-height: 500px;
   object-fit: cover;
@@ -8,6 +47,17 @@
 }
 
 .carousel .control-prev.control-arrow,
-.carousel .control-next.control-arrow {
+.carous
+
+.control-next.control-arrow {
   background: rgba(0, 0, 0, 0.5);
 }
+
+.thumbs {
+  margin: 1px;
+
+}
+
+/* .control-arrow {
+  top: 40% !important;
+} */

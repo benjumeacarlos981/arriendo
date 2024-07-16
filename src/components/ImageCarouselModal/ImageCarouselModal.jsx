@@ -1,3 +1,4 @@
+
 import React, { useEffect, useState, useCallback } from 'react';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
@@ -24,45 +25,36 @@ const ImageCarouselModal = ({ isOpen, onRequestClose }) => {
       isOpen={isOpen}
       onRequestClose={onRequestClose}
       contentLabel="Image Carousel Modal"
-      style={{
-        content: {
-          top: '50%',
-          left: '50%',
-          right: 'auto',
-          bottom: 'auto',
-          marginRight: '-50%',
-          transform: 'translate(-50%, -50%)',
-          width: '80%',
-          maxWidth: '800px'
-        }
-      }}
+      className="ImageCarouselModal"
     >
       <div>
         <Carousel selectedItem={selectedImage} onChange={setSelectedImage}>
           {images.map((image, index) => (
-            <div key={index}>
+
+            <div id="imghjm" key={index}>
               <img src={image} alt={`Imagen ${index + 1}`} />
+              {/* <button onClick={onRequestClose} style={{ marginTop: '1px' }}>Cerrar</button> */}
+              <button
+              onClick={onRequestClose}
+              style={{
+                position: 'absolute',
+                top: '10px',
+                right: '10px',
+                backgroundColor: 'rgba(0, 0, 0, 0.5)',
+                color: 'white',
+                border: 'none',
+                borderRadius: '5px',
+                padding: '5px 10px',
+                cursor: 'pointer'
+              }}
+            >
+              Cerrar
+            </button>
             </div>
           ))}
+
         </Carousel>
-        <div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
-          {images.map((image, index) => (
-            <img
-              key={index}
-              src={image}
-              alt={`Miniatura ${index + 1}`}
-              style={{
-                width: '50px',
-                height: '50px',
-                margin: '0 5px',
-                cursor: 'pointer',
-                border: selectedImage === index ? '2px solid #00c298' : '2px solid transparent'
-              }}
-              onClick={() => handleThumbnailClick(index)}
-            />
-          ))}
-        </div>
-        <button onClick={onRequestClose} style={{ marginTop: '20px' }}>Cerrar</button>
+
       </div>
     </Modal>
   );
