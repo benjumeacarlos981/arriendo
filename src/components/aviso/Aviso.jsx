@@ -7,7 +7,7 @@ const Aviso = () => {
   useEffect(() => {
     const timer = setTimeout(() => {
       setIsVisible(false);
-    }, 10000); // El aviso desaparece después de 3 segundos
+    }, 100); // El aviso desaparece después de 3 segundos
 
     return () => clearTimeout(timer);
   }, []);

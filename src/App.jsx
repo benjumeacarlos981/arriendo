@@ -4,10 +4,11 @@ import Descripcion from './components/descripcion/Descripcion';
 import Videos from './components/videos/Videos';
 import Header from './components/header/Header';
 import Aviso from './components/aviso/Aviso';
+import Medias from './components/medidas/Medidas';
 import CollageImg from './components/collageImg/CollageImg';
 import './styles/styles.css';
 
-import ImageCarouselModal from '/src/components/ImageCarouselModal/ImageCarouselModal';
+import ImageCarouselModal from './components/ImageCarouselModal/ImageCarouselModal';
 import Modal from 'react-modal';
 
 Modal.setAppElement('#root'); // Para la accesibilidad del modal
@@ -21,14 +22,23 @@ function App() {
       .then(data => setData(data));
   }, []);
 
-  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [isImageModalOpen, setIsImageModalOpen] = useState(false);
+  const [isMedidasModalOpen, setIsMedidasModalOpen] = useState(false);
 
-  const openModal = () => {
-    setIsModalOpen(true);
+  const openImageModal = () => {
+    setIsImageModalOpen(true);
   };
 
-  const closeModal = () => {
-    setIsModalOpen(false);
+  const closeImageModal = () => {
+    setIsImageModalOpen(false);
+  };
+
+  const openMedidasModal = () => {
+    setIsMedidasModalOpen(true);
+  };
+
+  const closeMedidasModal = () => {
+    setIsMedidasModalOpen(false);
   };
 
   if (!data) {
@@ -37,17 +47,24 @@ function App() {
 
   return (
     <>
-     <Aviso />
+      <Aviso />
       <div className="container">
         <Header data={data} />
         <Carousel data={data} />
         <Descripcion data={data} />
+        <div>
+          <button onClick={openMedidasModal} className="AppModalImg">Consultar Dimensiones</button>
+          <Medias isOpen={isMedidasModalOpen} onRequestClose={closeMedidasModal} data={data} />
+        </div>
+
         <Videos data={data} />
         <CollageImg />
+        <br />
         <div>
-          <button onClick={openModal} className="AppModalImg">Mostrar imagenes</button>
-          <ImageCarouselModal isOpen={isModalOpen} onRequestClose={closeModal} />
+          <button onClick={openImageModal} className="AppModalImg">Mostrar imágenes</button>
+          <ImageCarouselModal isOpen={isImageModalOpen} onRequestClose={closeImageModal} />
         </div>
+
       </div>
     </>
   );

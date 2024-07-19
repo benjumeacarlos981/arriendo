@@ -2,6 +2,47 @@
   "titulo1": "Arriendo Apartamento",
   "titulo2": "Barrio Gran Granada",
   "descripcion": "Conjunto residencial Balcones de granada III, estrato 4 con 2 torres de 12 pisos, administración incluida y parqueadero.",
+  "medidas": {
+    "titulo": "Medidas Apartamento",
+    "mts": [
+      {
+        "id": 1,
+        "Nombre": "Puerta Principal",
+        "Ancho": "80cm",
+        "Alto": "220cm"
+      },
+      {
+        "id": 2,
+        "Nombre": "Entrada Cocina",
+        "Ancho": "95cm",
+        "Alto": "210cm"
+      },
+      {
+        "id": 3,
+        "Nombre": "Ubicación Nevera",
+        "Ancho": "80cm",
+        "Largo": "60cm"
+      },
+      {
+        "id": 4,
+        "Nombre": "Ubicación Lavadora",
+        "Ancho": "76cm",
+        "Alto": "200cm"
+      },
+      {
+        "id": 5,
+        "Nombre": "Habitaciones 1 y 2",
+        "Ancho": "235cm",
+        "Largo": "255cm"
+      },
+      {
+        "id": 6,
+        "Nombre": "Habitación Principal",
+        "Ancho": "310cm",
+        "Largo": "275cm"
+      }
+    ]
+  },
   "caracteristicas": [
     "Área 68Mts",
     "Torre 2 Piso 8",
@@ -17,7 +58,6 @@
     "Administracion incluida",
     "Calentador a gas",
     "Ascensor"
-
   ],
   "img": {
     "linkImg1": "/arriendo/images/"
