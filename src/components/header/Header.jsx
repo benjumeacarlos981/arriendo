@@ -11,9 +11,9 @@ function Header({ data }) {
         <h2>{data.titulo2}</h2>
         </div>
         <div className="right">
-          <h1>$ 1.700.000</h1>
-          <h4>Cel 3182438948</h4>
-          <h6>Direcciòn Carrera 119 No 77 21</h6>
+          <h1>{data.valor}</h1>
+          <h4>{data.telefono}</h4>
+          <h6>{data.direccion}</h6>
         </div>
       </header>
     </div>
