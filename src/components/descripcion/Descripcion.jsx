@@ -5,7 +5,7 @@ function Descripcion({ data }) {
   return (
     <div className="description">
       <h2>{data.descripcion}</h2>
-      <h4>Descripcion 1152</h4>
+      <h4>Descripcion</h4>
 
       <div className="list-container">
         <ul>
