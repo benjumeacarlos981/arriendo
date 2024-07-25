@@ -11,7 +11,7 @@ const ImageCarouselModal = ({ isOpen, onRequestClose }) => {
 
   useEffect(() => {
     const baseURL = 'https://benjumeacarlos981.github.io/arriendo/images/';
-    const imageCount = 23; // Total number of images
+    const imageCount = 25; // Total number of images
     const imageUrls = Array.from({ length: imageCount }, (_, i) => `${baseURL}${i + 1}.jpeg`);
     setImages(imageUrls);
   }, []);
