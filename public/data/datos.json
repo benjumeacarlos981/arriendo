@@ -43,21 +43,24 @@
       }
     ]
   },
-  "caracteristicas": [
-    "Área 68Mts",
-    "Torre 2 Piso 8",
+"características": [
+    "Muy iluminado, amplio y acogedor ",
+    "Área 115Mts área construida",
+    "Piso 9",
     "3 habitaciones",
-    "2 baños",
-    "Balcon",
+    "3 baños",
+    "Balcón",
     "Estudio",
-    "Walking closet",
-    "Puerta de seguridad",
     "Cortinas",
-    "Parqueadero Privado",
+    "2 Parqueaderos Privados ",
     "Parqueadero de Visitantes",
-    "Administracion incluida",
+    "Administración incluida",
     "Calentador a gas",
-    "Ascensor"
+    "Juegos para niños interior, parque, salón y golfito ",
+    "gimnasio",
+    "Sauna y turco",
+    "salón de juegos de mesa",
+    "salones sociales y salón de estudio"
   ],
   "img": {
     "linkImg1": "/arriendo/images/"
@@ -196,9 +199,8 @@
   },
   "videos": [
 
-    "https://player.vimeo.com/video/958772498?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-    "https://player.vimeo.com/video/958776788?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-    "https://player.vimeo.com/video/958777218?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    "https://player.vimeo.com/video/990179153?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+    "blob:https://web.whatsapp.com/7cc9741a-458c-40a5-987a-015e9a0acd26"
   ]
 }
 
