@@ -11,38 +11,38 @@
       {
         "id": 1,
         "Nombre": "Puerta Principal",
-        "Ancho": "80cm",
-        "Alto": "220cm"
+        "Ancho": "cm",
+        "Alto": "cm"
       },
       {
         "id": 2,
         "Nombre": "Entrada Cocina",
-        "Ancho": "95cm",
-        "Alto": "210cm"
+        "Ancho": "cm",
+        "Alto": "cm"
       },
       {
         "id": 3,
         "Nombre": "Ubicación Nevera",
-        "Ancho": "80cm",
-        "Largo": "60cm"
+        "Ancho": "cm",
+        "Largo": "cm"
       },
       {
         "id": 4,
         "Nombre": "Ubicación Lavadora",
-        "Ancho": "76cm",
-        "Alto": "200cm"
+        "Ancho": "cm",
+        "Alto": "cm"
       },
       {
         "id": 5,
         "Nombre": "Habitaciones 1 y 2",
-        "Ancho": "235cm",
-        "Largo": "255cm"
+        "Ancho": "cm",
+        "Largo": "cm"
       },
       {
         "id": 6,
         "Nombre": "Habitación Principal",
-        "Ancho": "310cm",
-        "Largo": "275cm"
+        "Ancho": "cm",
+        "Largo": "cm"
       }
     ]
   },
