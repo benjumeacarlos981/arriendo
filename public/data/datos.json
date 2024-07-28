@@ -2,7 +2,7 @@
   "titulo1": "Arriendo Apartamento",
   "titulo2": "Barrio Andes Norte",
   "descripcion": "Conjunto residencial Torres de la 100, estrato 4 con 5 torres, administración incluida",
-  "valor": "$ 3.500.000",
+  "valor": "$ 3.370.200 + Admin 729800  = 4.100.000",
   "telefono": "Cel 3182438948",
   "direccion": "Direcciòn Carrera 65 No 100 - 15",
   "medidas": {
@@ -69,8 +69,6 @@
     "linkImg1": "/arriendo/images/"
   },
   "carousel": {
-    "tituloPrincipalH1": "Soluciones Integrales Multicarga",
-    "tituloPrincipalP": "Multicarga es una empresa transportadora dedicada al transporte de toda clase de mercancía a nivel nacional y local, garantizando seguridad, agilidad y experiencia.",
     "diapositivas": [
       {
         "id": 1,
@@ -82,121 +80,121 @@
       {
         "id": 2,
         "imagen": "/arriendo/images/2.jpeg",
-        "alt": "Cocina",
-        "descripcion": "Cocina",
-        "parrafo": "Cocina tipo americana."
+        "alt": "Sala, chimenea, cuarto de estudio, baño visitantes ",
+        "descripcion": "Sala, chimenea, estudio y baño",
+        "parrafo": "Sala, chimenea, cuarto de estudio, baño visitantes "
       },
       {
         "id": 3,
         "imagen": "/arriendo/images/3.jpeg",
-        "alt": "Cocina y zona de ropas",
-        "descripcion": "Cocina y zona de ropas",
-        "parrafo": "Zona de ropas bien iluminada y con 2 ventanas para mayor ventilación."
+        "alt": "Sala comedor y balcón",
+        "descripcion": "Sala comedor y balcón",
+        "parrafo": "Sala comedor y balcón"
       },
       {
         "id": 4,
         "imagen": "/arriendo/images/4.jpeg",
-        "alt": "Pasillo habitaciones",
-        "descripcion": "Pasillo habitaciones",
-        "parrafo": "Pasillo de acceso a estudio, baños y habitaciones."
+        "alt": "Cocina vista desde la sala",
+        "descripcion": "Cocina vista desde la sala",
+        "parrafo": "Cocina vista desde la sala"
       },
       {
         "id": 5,
         "imagen": "/arriendo/images/5.jpeg",
-        "alt": "Estudio",
-        "descripcion": "Estudio",
-        "parrafo": "Zona de estudio."
+        "alt": "Balcon mirada occidente",
+        "descripcion": "Balcon mirada occidente",
+        "parrafo": "Balcon mirada occidente"
       },
       {
         "id": 6,
         "imagen": "/arriendo/images/6.jpeg",
-        "alt": "Baño Socialr",
-        "descripcion": "Baño Social",
-        "parrafo": "Baño Social."
+        "alt": "Cocina",
+        "descripcion": "Cocina",
+        "parrafo": "Cocina"
       },
       {
         "id": 7,
         "imagen": "/arriendo/images/7.jpeg",
-        "alt": "Habitación principal esquinera",
-        "descripcion": "Habitación principal",
-        "parrafo": "Habitación principal esquinera con baño y walking closet."
+        "alt": "Cuarto ropas",
+        "descripcion": "Cuarto ropas",
+        "parrafo": "Cuarto ropas"
       },
       {
         "id": 8,
         "imagen": "/arriendo/images/8.jpeg",
-        "alt": "Walking closet",
+        "alt": "Cuarto ropas",
         "descripcion": "Walking closet",
-        "parrafo": "Walking closet con ventana de ventilación."
+        "parrafo": "Walking closet"
       },
       {
         "id": 9,
         "imagen": "/arriendo/images/9.jpeg",
-        "alt": "Baño habitación principal",
-        "descripcion": "Baño Principal",
-        "parrafo": "Baño habitación principal."
+        "alt": "Estudio Vista desde la sala",
+        "descripcion": "Estudio Vista desde la sala",
+        "parrafo": "Estudio Vista desde la sala"
       },
       {
         "id": 10,
         "imagen": "/arriendo/images/10.jpeg",
-        "alt": "Habitación auxiliar No 1",
-        "descripcion": "Habitación 1",
-        "parrafo": "Habitación auxiliar No 1."
+        "alt": "Estudio Vista derecha",
+        "descripcion": "Estudio Vista derecha",
+        "parrafo": "Estudio Vista derecha"
       },
       {
         "id": 11,
         "imagen": "/arriendo/images/11.jpeg",
-        "alt": "Habitación auxiliar No 1",
-        "descripcion": "Habitación 1",
-        "parrafo": "Habitación auxiliar No 1."
+        "alt": "Habitación Principal",
+        "descripcion": "Habitación Principal",
+        "parrafo": "Habitación Principal"
       },
       {
         "id": 12,
         "imagen": "/arriendo/images/12.jpeg",
-        "alt": "Habitación auxiliar No 2",
-        "descripcion": "Habitación 2",
-        "parrafo": "Habitación auxiliar No 2."
+        "alt": "Habitación Principal",
+        "descripcion": "Habitación Principal",
+        "parrafo": "Habitación Principal"
       },
       {
         "id": 13,
         "imagen": "/arriendo/images/13.jpeg",
-        "alt": "Habitación auxiliar No 2",
-        "descripcion": "Habitación 2",
-        "parrafo": "Habitación auxiliar No 2."
+        "alt": "Habitación Principal",
+        "descripcion": "Habitación Principal",
+        "parrafo": "Habitación Principal"
+      },
+      {
+        "id": 14,
+        "imagen": "/arriendo/images/14.jpeg",
+        "alt": "Habitación Principal",
+        "descripcion": "Habitación Principal",
+        "parrafo": "Habitación Principal"
+      },
+      {
+        "id": 15,
+        "imagen": "/arriendo/images/15.jpeg",
+        "alt": "Habitacion auxiliar No 1",
+        "descripcion": "Habitacion auxiliar No 1",
+        "parrafo": "Habitacion auxiliar No 1"
       },
       {
         "id": 16,
-        "imagen": "/arriendo/images/14.jpeg",
-        "alt": "Entrada conjunto",
-        "descripcion": "Entrada conjunto",
-        "parrafo": "Entrada conjunto y torres."
+        "imagen": "/arriendo/images/16.jpeg",
+        "alt": "Habitacion auxiliar No 2",
+        "descripcion": "Habitacion auxiliar No 2",
+        "parrafo": "Habitacion auxiliar No 2"
       },
       {
         "id": 17,
-        "imagen": "/arriendo/images/15.jpeg",
-        "alt": "Parqueadero",
-        "descripcion": "Parqueadero",
-        "parrafo": "Parqueadero vehicular."
+        "imagen": "/arriendo/images/17.jpeg",
+        "alt": "Vista habitaciones auxiliares",
+        "descripcion": "Vista habitaciones auxiliares",
+        "parrafo": "Vista habitaciones auxiliares"
       },
       {
         "id": 18,
-        "imagen": "/arriendo/images/16.jpeg",
-        "alt": "Parqueadero apartamento",
-        "descripcion": "Parqueadero apartamento",
-        "parrafo": "Parqueadero descubierto frente al ingreso a las torres."
-      },
-      {
-        "id": 19,
-        "imagen": "/arriendo/images/17.jpeg",
-        "alt": "Parqueadero visitantes",
-        "descripcion": "Parqueadero visitantes",
-        "parrafo": "Disponibilidad de parqueadero para visitantes."
-      },
-      {
-        "id": 20,
         "imagen": "/arriendo/images/18.jpeg",
-        "alt": "Portería entrada conjunto",
-        "descripcion": "Portería entrada conjunto",
-        "parrafo": "Portería entrada conjunto."
+        "alt": "Baño auxiliar",
+        "descripcion": "Baño auxiliar",
+        "parrafo": "Baño auxiliar"
       }
     ]
   },
